@@ -1,0 +1,11 @@
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb

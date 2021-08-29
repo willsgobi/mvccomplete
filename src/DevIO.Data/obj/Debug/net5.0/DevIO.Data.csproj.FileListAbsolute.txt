@@ -1,0 +1,15 @@
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.deps.json
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\ref\DevIO.Data.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.pdb
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.pdb
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csprojAssemblyReference.cache
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfo.cs
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CopyComplete
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\ref\DevIO.Data.dll
+C:\dotnetlab\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.pdb
